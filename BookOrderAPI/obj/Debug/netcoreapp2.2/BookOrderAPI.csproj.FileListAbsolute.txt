@@ -1,0 +1,14 @@
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\bin\Debug\netcoreapp2.2\BookOrderAPI.deps.json
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\bin\Debug\netcoreapp2.2\BookOrderAPI.runtimeconfig.json
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\bin\Debug\netcoreapp2.2\BookOrderAPI.runtimeconfig.dev.json
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\bin\Debug\netcoreapp2.2\BookOrderAPI.dll
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\obj\Debug\netcoreapp2.2\BookOrderAPI.csprojAssemblyReference.cache
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\obj\Debug\netcoreapp2.2\BookOrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\obj\Debug\netcoreapp2.2\BookOrderAPI.RazorAssemblyInfo.cache
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\obj\Debug\netcoreapp2.2\BookOrderAPI.RazorAssemblyInfo.cs
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\obj\Debug\netcoreapp2.2\BookOrderAPI.AssemblyInfoInputs.cache
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\obj\Debug\netcoreapp2.2\BookOrderAPI.AssemblyInfo.cs
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\obj\Debug\netcoreapp2.2\BookOrderAPI.RazorTargetAssemblyInfo.cache
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\bin\Debug\netcoreapp2.2\BookOrderAPI.pdb
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\obj\Debug\netcoreapp2.2\BookOrderAPI.dll
+C:\Users\madch\source\repos\BookOrderAPI\BookOrderAPI\obj\Debug\netcoreapp2.2\BookOrderAPI.pdb
