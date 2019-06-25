@@ -1,0 +1,13 @@
+{
+  "books": [
+    {
+      "id": 9789635090013,
+      "publisher": "SCOLAR KIADÓ KFT.",
+      "title": "Felsőbb matematika",
+      "writer": "Obádovics J. Gyula - Szarka Zoltán"
+    }
+  ],
+  "connections": {
+    "name": "publisher"
+  }
+}
